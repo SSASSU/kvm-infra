@@ -93,7 +93,7 @@ memory    = 16384
 disk-size = 100
 #디스크 추가(Byte단위, 기본값 0)
 extra-disk-size = 2000000000
-#기본 네트워크의 CICD
+#기본 네트워크의 CIDR
 net-cidr = "192.168.16.0/24"
 #생성할 VM개수, host-public-map의 항목개수보다 많을 수 없음
 vm-count = 3
